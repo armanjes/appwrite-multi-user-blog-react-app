@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@keyframes loader {
+  50% {
+    width: 100%;
+    left: 0;
+    right: auto;
+  }
+  100% {
+    width: 0;
+    left: auto;
+    right: 0;
+  }
+}
+
+.animate-loader {
+  animation: loader 1s ease-in-out infinite;
+}

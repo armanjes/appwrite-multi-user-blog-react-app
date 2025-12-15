@@ -1,0 +1,36 @@
+authentication system with react & appwrite.
+
+features:
+    sign up ✅
+    sign in ✅
+    logout ✅
+    protected routes ✅
+
+dep. packages:
+    react ✅
+    appwrite ✅
+    react-router-dom ✅
+    react-redux ✅
+    tailwind ✅
+    react-hook-form ✅
+
+component plan:
+    header ✅
+    footer ✅
+    container ✅
+    input ✅
+    button ✅
+    login ✅
+    sign up ✅
+
+pages:
+    home ✅
+    all post ✅
+    login ✅
+    addpost (protected) ✅
+
+routes:
+    home ✅
+    all post ✅
+    add post (protected) ✅
+    login ✅
